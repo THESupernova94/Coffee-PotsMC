@@ -1,3 +1,3 @@
 # Coffee-Pots:
 ## A Simple Resource Pack For Coffee Lovers!
-# Supernova94 Wants you To Credit The Creator If Talked About In A Video, But Not Required
+### This Resource Pack is Licenses Under The Creative Commons Attribution-ShareALike 4.0 License (CC BY-SA 4.0) Read The CC BY-SA 4.0 Deed: https://creativecommons.org/licenses/by-sa/4.0/deed.en
